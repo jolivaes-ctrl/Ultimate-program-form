@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Domingo-programa"
+		},
+		{
+			"path": "../Miercoles-programa"
+		},
+		{
+			"path": "../Viernes-programa"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Cultos especiales"
+	}
+}
